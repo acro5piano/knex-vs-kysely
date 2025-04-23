@@ -17,7 +17,7 @@ It resolved to a partial type of the original type.
 
 It resolves to an adhoc type.
 
-![image](https://github.com/user-attachments/assets/c899314b-a961-4b9e-8252-ae13ee222521)
+![image](https://github.com/user-attachments/assets/b096aeb9-80e8-4b5d-9da7-299c69f22670)
 
 
 # Full Demo video
